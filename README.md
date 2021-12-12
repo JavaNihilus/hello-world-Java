@@ -1,2 +1,1 @@
-# hello-world-Java
-Writing Hello World İn Java
+//This project is made by JavaNihilus
